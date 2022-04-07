@@ -19,15 +19,16 @@ body{
     overflow: visible;
     position: fixed;
     width: 100%;
-    z-index: 10;
+    z-index: 1;
     background-color: #4C4635;
     border-radius: 30px;
     display: block;
-    opacity: 0.85;
+    
     
 }
 #menu{
     height: 60px;
+    opacity: 0.85;
 }
 .danh-muc{
     float: left;
